@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="27px" viewBox="0 0 23 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/select error</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons/select-error" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Triangle" fill="#C60D0F" transform="translate(19.500000, 17.100000) scale(1, -1) translate(-19.500000, -17.100000) " points="19.5 15 23 19.2 16 19.2"></polygon>
+        <polygon id="Triangle" fill="#C60D0F" points="19.5 8 23 12.2 16 12.2"></polygon>
+        <rect id="Rectangle-4" fill="#C60D0F" opacity="0.4" x="0" y="0" width="1" height="27"></rect>
+    </g>
+</svg>
