@@ -1,2 +1,0 @@
-webpackJsonp([24],{805:function(n,e,t){var o=t(15),a=t(45),i=t(289).PageRenderer;i.__esModule&&(i=i.default);var r=a({displayName:"WrappedPageRenderer",getInitialState:function(){return{content:t(831)}},componentWillMount:function(){},render:function(){return o.createElement(i,Object.assign({},this.props,{content:this.state.content}))}});r.__catalog_loader__=!0,n.exports=r},831:function(n,e){n.exports='## Validation Icon\n\n```html\nshowSource: 1\n---\n<div class="ico ico-validation"></div>\n\n```\n'}});
-//# sourceMappingURL=24.b5e7cf1e.chunk.js.map
