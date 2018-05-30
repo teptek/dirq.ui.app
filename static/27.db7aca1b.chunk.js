@@ -1,0 +1,2 @@
+webpackJsonp([27],{784:function(e,n,t){var a=t(15),o=t(45),r=t(289).PageRenderer;r.__esModule&&(r=r.default);var c=o({displayName:"WrappedPageRenderer",getInitialState:function(){return{content:t(816)}},componentWillMount:function(){},render:function(){return a.createElement(r,Object.assign({},this.props,{content:this.state.content}))}});c.__catalog_loader__=!0,e.exports=c},816:function(e,n){e.exports='## Label\n\n```html\nshowSource: 1\n---\n\n<div class="label">Label</div>\n\n```'}});
+//# sourceMappingURL=27.db7aca1b.chunk.js.map
