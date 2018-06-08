@@ -1,0 +1,2 @@
+webpackJsonp([31],{785:function(e,n,t){var a=t(15),o=t(45),r=t(289).PageRenderer;r.__esModule&&(r=r.default);var l=o({displayName:"WrappedPageRenderer",getInitialState:function(){return{content:t(823)}},componentWillMount:function(){},render:function(){return a.createElement(r,Object.assign({},this.props,{content:this.state.content}))}});l.__catalog_loader__=!0,e.exports=l},823:function(e,n){e.exports='```html\nshowSource: 1\n---\n<label>Supplier 02445</label>\n<h2 class="h2">3M Espana SA</h2>\n\n```'}});
+//# sourceMappingURL=31.40c8bc61.chunk.js.map
